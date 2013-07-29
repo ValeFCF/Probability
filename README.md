@@ -1,4 +1,4 @@
-Probability
+Aplicacion para resolver problemas sencillos de probabilidad
 
 ------------
 
