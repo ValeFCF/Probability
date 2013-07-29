@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pa">A</string>
+    <string name="pb">B</string>
+    <string name="Borrar">Delete</string>
+    <string name="Continuar">Continue</string>
+    <string name="formulas">Formulas of conditional probability.</string>
+    <string name="Aceptar">Accept</string>
+    <string name="Atras">Back</string>
+    <string name="ai">A=</string>
+    <string name="bi">B=</string>
+    <string name="descrip">This is a very useful application in the field of probability, is a student of herraienta upper or middle upper level made ​​for jr. Android. The application is on trial as it only has simple conditional probability formulas would make it more useful and getting more formulas. I hope you will please the public in gral. very independent and that, to be useful. EVGL.</string>
+    <string name="finalizar">Finalize</string>
+    <string name="gusto">Did you like the content?</string>
+    <string name="si">Yes</string>
+    <string name="no">No</string>
+    <string name="salir">leave</string>
+    <string name="grax">Thank you very much for using this application, expected new things.</string>
+    <string name="suger">Suggestions</string>
+    <string name="desear">What do you wish you add to the application?</string>
+    <string name="mas">More conditional probability formulas</string>
+    <string name="vm">Variance and Media</string>
+    <string name="enviar">send</string>
+    <string name="disen">Design</string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
+    
+</resources>
